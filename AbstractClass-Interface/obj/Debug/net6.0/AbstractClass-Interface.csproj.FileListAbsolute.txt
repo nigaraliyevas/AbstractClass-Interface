@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\AbstractClass-Interface\AbstractClass-Interface\bin\Debug\net6.0\AbstractClass-Interface.exe
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\AbstractClass-Interface\AbstractClass-Interface\bin\Debug\net6.0\AbstractClass-Interface.deps.json
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\AbstractClass-Interface\AbstractClass-Interface\bin\Debug\net6.0\AbstractClass-Interface.runtimeconfig.json
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\AbstractClass-Interface\AbstractClass-Interface\bin\Debug\net6.0\AbstractClass-Interface.dll
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\AbstractClass-Interface\AbstractClass-Interface\bin\Debug\net6.0\AbstractClass-Interface.pdb
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\AbstractClass-Interface\AbstractClass-Interface\obj\Debug\net6.0\AbstractClass-Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\AbstractClass-Interface\AbstractClass-Interface\obj\Debug\net6.0\AbstractClass-Interface.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\AbstractClass-Interface\AbstractClass-Interface\obj\Debug\net6.0\AbstractClass-Interface.AssemblyInfo.cs
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\AbstractClass-Interface\AbstractClass-Interface\obj\Debug\net6.0\AbstractClass-Interface.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\AbstractClass-Interface\AbstractClass-Interface\obj\Debug\net6.0\AbstractClass-Interface.dll
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\AbstractClass-Interface\AbstractClass-Interface\obj\Debug\net6.0\refint\AbstractClass-Interface.dll
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\AbstractClass-Interface\AbstractClass-Interface\obj\Debug\net6.0\AbstractClass-Interface.pdb
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\AbstractClass-Interface\AbstractClass-Interface\obj\Debug\net6.0\AbstractClass-Interface.genruntimeconfig.cache
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\AbstractClass-Interface\AbstractClass-Interface\obj\Debug\net6.0\ref\AbstractClass-Interface.dll

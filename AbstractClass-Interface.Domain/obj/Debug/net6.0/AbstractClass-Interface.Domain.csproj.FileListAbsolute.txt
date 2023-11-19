@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\AbstractClass-Interface\AbstractClass-Interface.Domain\bin\Debug\net6.0\AbstractClass-Interface.Domain.deps.json
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\AbstractClass-Interface\AbstractClass-Interface.Domain\bin\Debug\net6.0\AbstractClass-Interface.Domain.dll
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\AbstractClass-Interface\AbstractClass-Interface.Domain\bin\Debug\net6.0\AbstractClass-Interface.Domain.pdb
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\AbstractClass-Interface\AbstractClass-Interface.Domain\obj\Debug\net6.0\AbstractClass-Interface.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\AbstractClass-Interface\AbstractClass-Interface.Domain\obj\Debug\net6.0\AbstractClass-Interface.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\AbstractClass-Interface\AbstractClass-Interface.Domain\obj\Debug\net6.0\AbstractClass-Interface.Domain.AssemblyInfo.cs
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\AbstractClass-Interface\AbstractClass-Interface.Domain\obj\Debug\net6.0\AbstractClass-Interface.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\AbstractClass-Interface\AbstractClass-Interface.Domain\obj\Debug\net6.0\AbstractClass-Interface.Domain.dll
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\AbstractClass-Interface\AbstractClass-Interface.Domain\obj\Debug\net6.0\refint\AbstractClass-Interface.Domain.dll
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\AbstractClass-Interface\AbstractClass-Interface.Domain\obj\Debug\net6.0\AbstractClass-Interface.Domain.pdb
+C:\Users\User\Desktop\Code Academy\Tasks\Task-4_09.10.23\AbstractClass-Interface\AbstractClass-Interface.Domain\obj\Debug\net6.0\ref\AbstractClass-Interface.Domain.dll
